@@ -1,0 +1,16 @@
+gold:0
+bronze:50
+hanlim:100
+master:30
+wer:40
+msk:60
+hanseo:20
+gogogo:50
+serer:70
+zxzx:10
+tiger:40
+textID:60
+testgogo:40
+secondfllor:80
+mastertype:110
+:-70
